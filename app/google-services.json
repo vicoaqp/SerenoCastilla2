@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "556260319333",
+    "firebase_url": "https://castilla-702ee-default-rtdb.firebaseio.com",
+    "project_id": "castilla-702ee",
+    "storage_bucket": "castilla-702ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556260319333:android:cb2e74101921460aaee68c",
+        "android_client_info": {
+          "package_name": "com.risape.serenocastilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556260319333-g6ehc985rdjl06hficn6mvk97en0r3ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDooLqFWYkSuxNSNVvUSgxAAJs3X25CN5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556260319333-g6ehc985rdjl06hficn6mvk97en0r3ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556260319333:android:8d50311e43d50cb7aee68c",
+        "android_client_info": {
+          "package_name": "com.turismo.castilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556260319333-as2otdtd8un3018qhalgtjhc0q31en7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.turismo.castilla",
+            "certificate_hash": "b72a54aaad0fc58be0065368f08ecf989e49ffb4"
+          }
+        },
+        {
+          "client_id": "556260319333-g6ehc985rdjl06hficn6mvk97en0r3ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDooLqFWYkSuxNSNVvUSgxAAJs3X25CN5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556260319333-g6ehc985rdjl06hficn6mvk97en0r3ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
